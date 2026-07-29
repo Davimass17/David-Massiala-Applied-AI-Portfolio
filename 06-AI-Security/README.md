@@ -2,38 +2,56 @@
 
 ## Project Overview
 
-This project focuses on securing Artificial Intelligence systems against modern cyber threats, adversarial attacks, prompt injection, and data poisoning.
+This project focuses on securing Artificial Intelligence systems against modern cyber threats. It explores best practices for protecting AI models, data, APIs, and machine learning pipelines.
+
+---
 
 ## Objectives
 
-- Understand AI security risks
-- Study adversarial machine learning
-- Prevent prompt injection attacks
-- Explore model security techniques
-- Protect AI applications and data
+- Understand AI security principles
+- Identify vulnerabilities in AI systems
+- Protect machine learning models
+- Secure AI APIs
+- Explore adversarial attacks and defenses
+
+---
 
 ## Technologies
 
 - Python
-- OWASP Top 10 for LLMs
-- TensorFlow
-- PyTorch
-- Google Colab
 - Jupyter Notebook
-
-## Applications
-
-- Secure AI Systems
-- LLM Protection
-- AI Risk Assessment
-- Prompt Injection Defense
-- Adversarial AI
+- Google Colab
+- OWASP
+- Machine Learning
 - Cybersecurity
+
+---
+
+## Topics Covered
+
+- AI security fundamentals
+- Prompt injection attacks
+- Data poisoning
+- Model theft
+- Adversarial examples
+- Secure AI development
+- Risk assessment
+
+---
+
+## Skills Demonstrated
+
+- AI risk analysis
+- Secure AI deployment
+- Threat modeling
+- Vulnerability assessment
+- AI governance
+
+---
 
 ## Author
 
-David Massiala
+*David Massiala*
 
+Applied AI & Robotics  
 Houston Community College
-
-Applied AI & Robotics
