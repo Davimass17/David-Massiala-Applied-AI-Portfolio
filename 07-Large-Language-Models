@@ -2,39 +2,58 @@
 
 ## Project Overview
 
-This project explores Large Language Models (LLMs), including prompt engineering, text generation, reasoning, retrieval-augmented generation (RAG), and modern AI applications.
+This project explores the capabilities of modern Large Language Models (LLMs) for natural language understanding, reasoning, content generation, and AI-assisted applications.
+
+---
 
 ## Objectives
 
-- Understand transformer-based models
-- Practice prompt engineering
-- Build Retrieval-Augmented Generation (RAG) systems
-- Explore AI reasoning capabilities
-- Integrate LLMs into real-world applications
+- Understand how LLMs work
+- Build AI-powered applications
+- Explore prompt engineering
+- Implement Retrieval-Augmented Generation (RAG)
+- Develop intelligent assistants
+
+---
 
 ## Technologies
 
 - Python
 - OpenAI API
-- Hugging Face Transformers
-- LangChain
-- FAISS
 - Google Colab
 - Jupyter Notebook
+- LangChain
+- Transformers
+- Hugging Face
 
-## Applications
+---
 
-- AI Chatbots
-- Document Question Answering
-- Code Generation
-- Knowledge Assistants
-- Content Generation
-- AI Automation
+## Topics Covered
+
+- Prompt Engineering
+- Text Generation
+- Question Answering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Function Calling
+- AI Assistants
+
+---
+
+## Skills Demonstrated
+
+- LLM integration
+- Prompt design
+- Context management
+- AI application development
+- API integration
+- Intelligent automation
+
+---
 
 ## Author
 
-David Massiala
+*David Massiala*
 
+Applied AI & Robotics  
 Houston Community College
-
-Applied AI & Robotics
