@@ -2,38 +2,55 @@
 
 ## Project Overview
 
-This project explores Multi-Agent Systems where multiple AI agents collaborate, communicate, and solve complex tasks together.
+This project explores the design and implementation of AI systems where multiple intelligent agents collaborate to solve complex tasks. Each agent has a specialized role and communicates with others to achieve a common objective.
+
+---
 
 ## Objectives
 
-- Understand autonomous agents
-- Build collaborative AI systems
-- Implement agent communication
-- Coordinate decision-making
-- Simulate real-world AI teamwork
+- Understand multi-agent architectures
+- Build cooperative AI agents
+- Coordinate task execution
+- Enable agent communication
+- Solve complex workflows through collaboration
+
+---
 
 ## Technologies
 
 - Python
-- LangChain
 - OpenAI API
+- LangChain
 - CrewAI
-- AutoGen
 - Google Colab
+- Jupyter Notebook
+
+---
+
+## Skills Demonstrated
+
+- Agent orchestration
+- Prompt engineering
+- Workflow automation
+- Tool integration
+- AI collaboration
+- Task planning
+
+---
 
 ## Applications
 
-- AI Assistants
-- Task Automation
-- Research Agents
-- Business Automation
-- Customer Support
-- Intelligent Workflows
+- AI assistants
+- Research automation
+- Customer support
+- Business workflows
+- Decision support systems
+
+---
 
 ## Author
 
-David Massiala
+*David Massiala*
 
+Applied AI & Robotics  
 Houston Community College
-
-Applied AI & Robotics
