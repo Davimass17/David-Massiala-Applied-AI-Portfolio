@@ -1,17 +1,27 @@
-# Natural Language Processing (NLP)
+# Natural Language Processing Portfolio
 
 ## Project Overview
 
-This project demonstrates Natural Language Processing techniques for analyzing, understanding, and generating human language using Python and modern AI libraries.
+This section showcases Natural Language Processing projects developed during the Applied AI & Robotics program.
 
-## Objectives
+The projects demonstrate how text data can be cleaned, transformed, analyzed, and classified using machine learning and modern NLP techniques.
 
-- Process and clean text data
-- Perform tokenization and text normalization
-- Apply sentiment analysis
-- Extract meaningful information from text
-- Build NLP models using Machine Learning
-- Explore Large Language Models (LLMs)
+---
+
+## Core Topics
+
+- Text preprocessing
+- Tokenization
+- Stop-word removal
+- Lemmatization
+- Part-of-Speech tagging
+- Named Entity Recognition
+- Sentiment analysis
+- Text classification
+- TF-IDF
+- N-grams
+
+---
 
 ## Technologies
 
@@ -19,24 +29,55 @@ This project demonstrates Natural Language Processing techniques for analyzing, 
 - NLTK
 - spaCy
 - Scikit-learn
-- Transformers (Hugging Face)
 - Pandas
+- NumPy
+- Matplotlib
 - Google Colab
 - Jupyter Notebook
 
+---
+
+## Featured Work
+
+### Sentiment and Emotion Analysis
+
+Analyzes text to identify sentiment and emotional patterns using rule-based and machine learning methods.
+
+### Part-of-Speech Tagging
+
+Identifies grammatical roles such as nouns, verbs, adjectives, and pronouns in textual data.
+
+### Text Representation
+
+Explores Bag of Words, TF-IDF, N-grams, and word embeddings for machine learning applications.
+
+---
+
+## Skills Demonstrated
+
+- Text cleaning and normalization
+- Feature extraction
+- NLP pipeline development
+- Text classification
+- Model evaluation
+- Interpretation of linguistic information
+
+---
+
 ## Applications
 
-- Sentiment Analysis
-- Text Classification
+- Customer feedback analysis
 - Chatbots
-- Named Entity Recognition
-- Language Translation
-- Text Summarization
+- Content classification
+- Social media monitoring
+- Search systems
+- Document intelligence
+
+---
 
 ## Author
 
-David Massiala
+*David Massiala*
 
+Applied AI & Robotics  
 Houston Community College
-
-Applied AI & Robotics
