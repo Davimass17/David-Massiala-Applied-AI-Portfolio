@@ -2,40 +2,78 @@
 
 ## Project Overview
 
-This capstone project integrates the knowledge gained throughout the Applied AI & Robotics program into a complete end-to-end Artificial Intelligence solution.
+The AI Capstone Project represents the integration of knowledge acquired throughout the Applied AI & Robotics program at Houston Community College.
 
-## Objectives
+This repository demonstrates the application of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Intelligent Systems to solve real-world problems.
 
-- Combine Machine Learning, Computer Vision, and NLP
-- Design a complete AI pipeline
-- Build a production-ready AI application
-- Evaluate model performance
-- Demonstrate professional software engineering practices
+---
 
-## Technologies
+## Project Goals
+
+- Build complete AI solutions
+- Integrate multiple AI disciplines
+- Apply industry best practices
+- Develop production-ready workflows
+- Demonstrate professional software engineering
+
+---
+
+## Core Technologies
 
 - Python
 - TensorFlow
 - PyTorch
 - OpenCV
+- Scikit-learn
 - Hugging Face
 - LangChain
+- YOLO11
 - Google Colab
 - GitHub
 
-## Applications
+---
 
-- Intelligent Automation
+## AI Areas Covered
+
+- Machine Learning
+- Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Predictive Analytics
-- AI Assistants
-- End-to-End AI Systems
+- Large Language Models
+- Multi-Agent Systems
+- AI Security
+- Intelligent Automation
+
+---
+
+## Skills Demonstrated
+
+- AI System Design
+- Model Development
+- Model Evaluation
+- Data Processing
+- Computer Vision
+- NLP Pipelines
+- AI Deployment
+- Technical Documentation
+
+---
+
+## Future Improvements
+
+- Cloud Deployment
+- Docker Containers
+- FastAPI Integration
+- AI Agents
+- RAG Systems
+- MLOps Pipeline
+
+---
 
 ## Author
 
-David Massiala
-
-Houston Community College
+*David Massiala*
 
 Applied AI & Robotics
+
+Houston Community College
