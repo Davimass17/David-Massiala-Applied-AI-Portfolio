@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="David Massiala Applied AI Portfolio" width="100%">
+</p>
 #  David Massiala
 
 ## Applied AI & Robotics Portfolio
